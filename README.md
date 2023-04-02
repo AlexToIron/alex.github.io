@@ -1,4 +1,4 @@
-![Aperçu de mon dépôt](chemin/vers/background_2.jpg)
+![Aperçu de mon dépôt](background_2.jpg)
 
 # My GitHub Profile
 
