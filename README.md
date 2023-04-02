@@ -1,3 +1,5 @@
+![Aperçu de mon dépôt](chemin/vers/background_2.jpg)
+
 # My GitHub Profile
 
 Hi, I'm Alexandre. I'm a passionate developer who loves building applications that solve real-world problems.
